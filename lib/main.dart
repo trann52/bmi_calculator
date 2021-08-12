@@ -19,15 +19,6 @@ class BMICalculator extends StatelessWidget {
       ),
       // direct to the first screen
       home: InputPage(),
-//      initialRoute: '/input',
-//      routes: {
-//        '/input': (context) => InputPage(),
-//        '/calculate': (context) => ResultsPage(
-//              resultText: ,
-//              interpretation: '',
-//              bmiResult: '',
-//            ),
-//      },
     );
   }
 }
